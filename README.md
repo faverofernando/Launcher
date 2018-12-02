@@ -1,4 +1,5 @@
 # Launcher
-Launcher para diversos games
+Launcher em estado de desenvolvimento.
 
-teste
+Caso queira contribuir, envie uma issue que eu estarei analisando
+
