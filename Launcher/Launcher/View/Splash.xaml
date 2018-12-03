@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Launcher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="Teste" Height="265.967" Width="337.395"  AllowsTransparency="True" WindowStyle="None" Background="Transparent" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10,21,84,57">
+        <Grid.Background>
+            <ImageBrush Stretch="Uniform" ImageSource="/Imagem/Splash.png"/>
+        </Grid.Background>
     </Grid>
 </Window>
