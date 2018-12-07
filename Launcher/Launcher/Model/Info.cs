@@ -9,7 +9,7 @@ namespace Launcher.Model
 {
     public class Info
     {
-        public string launcherURL = "http://198.27.120.46/Launcher";
+        public string launcherURL = "http://198.27.120.45/Launcher";
         private string launcherParam = "PARAMENTRO_DO_MAIN";
         public List<Arquivos> fileInfo { get; set; }
 
